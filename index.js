@@ -3,5 +3,5 @@ function kitten() {
   return "kitten";
 }
 function destructivelyAppendKitten(name) {
-  return name.appendKitten();
+  return name.append("kitten");
 }
